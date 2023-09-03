@@ -1,0 +1,4 @@
+manumanu123|2|300|Chicken-Burger|
+manumanu123|2|500|Chicken-Fazita|
+manumanu123|2|300|Chicken-Burger|
+manumanu123|1|250|Chicken-Fazita|
